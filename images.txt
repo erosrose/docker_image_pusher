@@ -1,8 +1,8 @@
 #nginx
 # oracle
-rohitbasu77/oracle11g
+# rohitbasu77/oracle11g
 # langflow
-langflowai/langflow:1.6.5
+# langflowai/langflow:1.6.5
 
 mongo:6.0
 
